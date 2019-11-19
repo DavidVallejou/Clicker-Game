@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+        "name": "Captain America",
+        "image": "https://img.favpng.com/15/18/11/captain-america-s-shield-marvel-cinematic-universe-png-favpng-ZcgsB0V2Xt8XqTkxdL5KN6YiB.jpg",
+    "occupation": "Throwing shield",
+    "location": "Brooklyn, NY"
+  },
+  {
+    "id": 2,
+    "name": "Iron Man",
+    "image": "https://www.fightersgeneration.com/np8/mvc3u/new/2/ironman-scarred.jpg",
+    "occupation": "Repulsor Blast",
+    "location": "Malibu, CA"
+  },
+  {
+    "id": 3,
+    "name": "Thor",
+    "image": "https://www.fightersgeneration.com/np5/more/thor-mvc3.jpg",
+    "occupation": "Throwing  Mjölnir",
+    "location": "Asgard"
+  },
+  {
+    "id": 4,
+    "name": "Black Widow",
+    "image": "https://hdqwalls.com/wallpapers/scarlett-johansson-in-black-widow.jpg",
+    "occupation": "Small guns she sucks lol",
+    "location": "Russia"
+  },
+  {
+    "id": 5,
+    "name": "Doctor Strange",
+    "image": "https://themelaninman.files.wordpress.com/2016/11/doctorstrange.jpg",
+    "occupation": "Astro Magic!",
+    "location": "The Multiverse"
+  },
+  {
+    "id": 6,
+    "name": "Gamora",
+    "image": "https://img.cinemablend.com/cb/0/8/8/5/3/6/088536673e7d92d183fcc584f26c5603577ec5886c9f8978e7e49ac9f131bcf5.jpg",
+    "occupation": "Hates her father Thanos",
+    "location": "Lives with her father Thanos"
+  },
+  {
+    "id": 7,
+    "name": "Falcon",
+    "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/4/48/Falcon_AIW_Profile.jpg",
+    "occupation": "On your left",
+    "location": "Atlanta, Georgia"
+  },
+  {
+    "id": 8,
+    "name": "Black Panther",
+    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180310125812-black-panther-exlarge-169.jpg",
+    "occupation": "KING",
+    "location": "Wakanda"
+  },
+  {
+    "id": 9,
+    "name": "Ant Man",
+    "image":"https://images.halloweencostumes.com/products/46565/1-1/childs-ant-man-costume.jpg",
+    "occupation": "Going quantum",
+    "location": "San Francisco, CA"
+  },
+  {
+    "id": 10,
+    "name": "Spider-Man",
+    "image": "https://i7.pngguru.com/preview/670/420/924/spider-man-homecoming-film-series-paper-cloth-napkins-party-spiderman.jpg",
+    "occupation": "Swinging around NY",
+    "location": "Forest Hills, Queens"
+  },
+  {
+    "id": 11,
+    "name": "Groot",
+    "image": "https://www.themarysue.com/wp-content/uploads/2015/11/groot.jpg",
+    "occupation": "I AM GROOT",
+    "location": "I AM GROOT"
+  },
+  {
+    "id": 12,
+    "name": "Thanos",
+    "image": "https://p1.hiclipart.com/preview/789/106/397/infinity-war-thanos-3-png-clipart-thumbnail.jpg",
+    "occupation": "SNAP!",
+    "location": "Titan"
+  }
+]
