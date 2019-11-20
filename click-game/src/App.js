@@ -12,7 +12,7 @@ class App extends Component {
     currentScore: 0,
     topScore: 0,
     clickedImage: [],
-    status: "Click to start"
+    status: "Click to start Game"
   };
 
   handlePicked = id => {
