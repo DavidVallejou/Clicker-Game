@@ -113,7 +113,9 @@ class App extends Component {
         <Title>Marvel Click Game</Title>
         {this.state.friends.map(friend => (
           <FriendCard
-            clickedImage={this.clickedImage}
+          handlePicked ={this.handlePicked}
+          
+            clickedImage={this.clickedImage} 
             id={friend.id}
             key={friend.id}
             name={friend.name}
